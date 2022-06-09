@@ -1,0 +1,10 @@
+body {
+    background: url("./assets/fon.png") no-repeat center;
+    -moz-background-size: cover;
+    background-size: cover;
+    min-height: 110vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
